@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.omneagate.Bunker"
+    android:versionCode="13"
+    android:versionName="1.1.2" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="21" />
+
+    <supports-screens android:largeScreens="true" />
+    <supports-screens android:xlargeScreens="true" />
+    <supports-screens android:smallScreens="false" />
+
+    <uses-permission android:name="android.permission.INSTALL_PACKAGE" />
+    <!-- Internet Permissions -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <!-- Network State Permissions -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+    <uses-permission android:name="android.permission.READ_SMS" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.READ_LOGS" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <uses-permission android:name="android.permission.READ_INTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_INTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="false" />
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <!-- Bluetooth Permissions -->
+    <uses-feature
+        android:name="android.hardware.bluetooth"
+        android:required="false" />
+
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+
+    <application
+        android:name="com.omneAgate.Bunker.GlobalAppState"
+        android:allowBackup="true"
+        android:clearTaskOnLaunch="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:launchMode="singleTask"
+        android:stateNotNeeded="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.omneAgate.Bunker.SplashActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:stateNotNeeded="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <!-- The following two intent-filters are the key to set homescreen -->
+                <category android:name="android.intent.category.HOME" />
+                <category android:name="android.intent.category.LAUNCHER" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.omneAgate.Bunker.LoginActivity"
+            android:screenOrientation="landscape"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.omneAgate.Bunker.SaleActivity"
+            android:label="@string/titleActivityMain"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.omneAgate.Bunker.QRCodeSalesActivity"
+            android:label="@string/titleActivityMain"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.omneAgate.Bunker.ProfileActivity"
+            android:label="@string/titleActivityMain"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.omneAgate.Bunker.UnsyncBillActivity"
+            android:label="@string/titleActivityMain"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.omneAgate.Bunker.SuccessFailureSalesActivity"
+            android:label="@string/titleActivityMain"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.omneAgate.Bunker.RegistrationActivity"
+            android:label="@string/titleActivityMain"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.omneAgate.Bunker.BeneficiaryListActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/titleActivityMain"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.omneAgate.Bunker.StockCheckActivity"
+            android:label="@string/titleActivityMain"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.omneAgate.Bunker.RationCardSalesActivity"
+            android:label="@string/titleActivityMain"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.omneAgate.Bunker.StockAdjustmentPage"
+            android:label="@string/stock_adjust"
+            android:screenOrientation="sensorLandscape" />
+        <activity
+            android:name="com.omneAgate.Bunker.FpsStockAdjustmentListActivity"
+            android:label="@string/titleActivityMain"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.omneAgate.Bunker.SalesEntryActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/titleActivityEntitlement"
+            android:screenOrientation="landscape"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <activity
+            android:name="com.omneAgate.Bunker.SalesSummaryActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/titleActivitySalesSubmission"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.omneAgate.Bunker.FpsStockInwardActivity"
+            android:label="@string/title_activity_fps_stock"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.omneAgate.Bunker.MobileOTPOptionsActivity"
+            android:label="@string/title_activity_fps_stock"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.omneAgate.Bunker.MobileOTPNeedActivity"
+            android:label="@string/title_activity_fps_stock"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.omneAgate.Bunker.FpsStockInwardDetailActivity"
+            android:label="@string/title_activity_fps_stock_inward_detail"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.omneAgate.Bunker.AutoUpgrationActivity"
+            android:label="@string/autoUpgrade"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.omneAgate.Bunker.TransactionCommodityActivity"
+            android:label="@string/title_activity_transaction_commodity"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.omneAgate.Bunker.BillActivity"
+            android:label="@string/title_activity_fps_intent_request"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.omneAgate.Bunker.BillByDateActivity"
+            android:label="@string/title_activity_fps_intent_request"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.omneAgate.Bunker.FpsManualInwardActivity"
+            android:label="@string/title_activity_fps_intent_request"
+            android:screenOrientation="portrait" />
+
+        <service android:name="com.omneAgate.service.ConnectionHeartBeat" />
+        <service android:name="com.omneAgate.service.UpdateDataService" />
+        <service android:name="com.omneAgate.service.RemoteLoggingService" />
+        <service android:name="com.omneAgate.service.OfflineTransactionManager" />
+        <service android:name="com.omneAgate.service.OfflineInwardManager" />
+        <service android:name="com.omneAgate.service.OfflineRegistrationManager" />
+        <service android:name="com.omneAgate.service.StatisticsService" />
+        <service android:name="com.omneAgate.service.LoginHistoryService" />
+        <service android:name="com.omneAgate.service.OfflineCloseSaleManager" />
+
+        <receiver
+            android:name="com.omneAgate.Bunker.NetworkChangeReceiver"
+            android:label="NetworkChangeReceiver" >
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" >
+                    <action android:name="android.net.wifi.WIFI_STATE_CHANGED" />
+                </action>
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.omneAgate.Bunker.IncomingSMSReceiver"
+            android:label="IncomingSMSReceiver" >
+            <intent-filter android:priority="999999" >
+                <action android:name="android.provider.Telephony.SMS_RECEIVED" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name="com.omneAgate.Bunker.BillDetailActivity"
+            android:label="@string/title_activity_bill_Detail"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.omneAgate.Bunker.FpsStockInwardReceivedActivity"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.omneAgate.Bunker.SuccessFailureActivity"
+            android:label="@string/title_activity_success_failure"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.omneAgate.Bunker.BillSearchActivity"
+            android:label="@string/title_activity_success_failure"
+            android:screenOrientation="landscape"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.omneAgate.Bunker.SalesSummaryWithOutOTPActivity"
+            android:label="@string/title_activity_success_failure"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.omneAgate.Bunker.BillSuccessActivity"
+            android:label="@string/title_activity_bill_success"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.omneAgate.Bunker.StockManagementActivity"
+            android:label="@string/title_activity_bill_success"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.omneAgate.Bunker.AdminActivity"
+            android:label="@string/title_activity_bill_success"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.omneAgate.Bunker.SyncPageActivity"
+            android:label="@string/title_activity_sync_page"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.omneAgate.Bunker.SaleOrderActivity"
+            android:label="@string/title_activity_sale_order"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.omneAgate.Bunker.MobileOTPActivity"
+            android:label="@string/title_activity_mobile_otp"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.google.zxing.client.android.CaptureActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:keepScreenOn="true"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
+            android:windowSoftInputMode="stateAlwaysHidden" >
+            <intent-filter>
+                <action android:name="com.google.zxing.client.android.SCAN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.omneAgate.CrashActivity"
+            android:label="@string/title_activity_crash"
+            android:screenOrientation="landscape" >
+            <intent-filter>
+                <action android:name="com.omneAgate.SEND_LOG" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.omneAgate.Bunker.BeneficiaryMenuActivity"
+            android:label="@string/beneficiary_name"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.omneAgate.Bunker.OpenStockActivity"
+            android:label="@string/openstock_name"
+            android:screenOrientation="landscape"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <activity
+            android:name="com.omneAgate.Bunker.StatisticsActivity"
+            android:label="@string/title_activity_statistics"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.omneAgate.Bunker.OpenstockActivityEntry"
+            android:label="@string/openstock_name"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.omneAgate.Bunker.VersionUpgradeInfo"
+            android:label="@string/version_upgrade"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.omneAgate.Bunker.VersionUpgradeDetail"
+            android:label="@string/version_upgrade"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.omneAgate.Bunker.UnsyncBillDetailActivity"
+            android:label="@string/version_upgrade"
+            android:screenOrientation="landscape" />
+    </application>
+
+</manifest>

@@ -1,0 +1,748 @@
+[
+    {
+        "outputFile": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/values-fr-rCA/values-fr-rCA.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endLine": 5,
+                    "endColumn": 14,
+                    "endOffset": 336
+                },
+                "from": {
+                    "file": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/values-fr-rCA/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 230,
+                        "endLine": 7,
+                        "endColumn": 14,
+                        "endOffset": 461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 341,
+                    "endLine": 9,
+                    "endColumn": 14,
+                    "endOffset": 580
+                },
+                "from": {
+                    "file": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/values-fr-rCA/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 466,
+                        "endLine": 11,
+                        "endColumn": 14,
+                        "endOffset": 705
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 585,
+                    "endLine": 13,
+                    "endColumn": 14,
+                    "endOffset": 827
+                },
+                "from": {
+                    "file": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/values-fr-rCA/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 710,
+                        "endLine": 15,
+                        "endColumn": 14,
+                        "endOffset": 952
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 832,
+                    "endLine": 17,
+                    "endColumn": 14,
+                    "endOffset": 1077
+                },
+                "from": {
+                    "file": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/values-fr-rCA/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 957,
+                        "endLine": 19,
+                        "endColumn": 14,
+                        "endOffset": 1202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1082,
+                    "endLine": 21,
+                    "endColumn": 14,
+                    "endOffset": 1314
+                },
+                "from": {
+                    "file": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/values-fr-rCA/values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1207,
+                        "endLine": 23,
+                        "endColumn": 14,
+                        "endOffset": 1439
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1319,
+                    "endLine": 25,
+                    "endColumn": 14,
+                    "endOffset": 1560
+                },
+                "from": {
+                    "file": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/values-fr-rCA/values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1444,
+                        "endLine": 27,
+                        "endColumn": 14,
+                        "endOffset": 1685
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1565,
+                    "endLine": 29,
+                    "endColumn": 14,
+                    "endOffset": 1809
+                },
+                "from": {
+                    "file": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/values-fr-rCA/values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1690,
+                        "endLine": 31,
+                        "endColumn": 14,
+                        "endOffset": 1934
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1814,
+                    "endLine": 33,
+                    "endColumn": 14,
+                    "endOffset": 2064
+                },
+                "from": {
+                    "file": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/values-fr-rCA/values.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1939,
+                        "endLine": 35,
+                        "endColumn": 14,
+                        "endOffset": 2189
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2069,
+                    "endLine": 37,
+                    "endColumn": 14,
+                    "endOffset": 2293
+                },
+                "from": {
+                    "file": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/values-fr-rCA/values.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2194,
+                        "endLine": 39,
+                        "endColumn": 14,
+                        "endOffset": 2418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2298,
+                    "endLine": 41,
+                    "endColumn": 14,
+                    "endOffset": 2525
+                },
+                "from": {
+                    "file": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/values-fr-rCA/values.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2423,
+                        "endLine": 43,
+                        "endColumn": 14,
+                        "endOffset": 2650
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2530,
+                    "endLine": 45,
+                    "endColumn": 14,
+                    "endOffset": 2760
+                },
+                "from": {
+                    "file": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/values-fr-rCA/values.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2655,
+                        "endLine": 47,
+                        "endColumn": 14,
+                        "endOffset": 2885
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2765,
+                    "endLine": 49,
+                    "endColumn": 14,
+                    "endOffset": 2989
+                },
+                "from": {
+                    "file": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/values-fr-rCA/values.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 2890,
+                        "endLine": 51,
+                        "endColumn": 14,
+                        "endOffset": 3114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 2994,
+                    "endLine": 53,
+                    "endColumn": 14,
+                    "endOffset": 3225
+                },
+                "from": {
+                    "file": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/values-fr-rCA/values.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 3119,
+                        "endLine": 55,
+                        "endColumn": 14,
+                        "endOffset": 3350
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 3230,
+                    "endLine": 57,
+                    "endColumn": 14,
+                    "endOffset": 3466
+                },
+                "from": {
+                    "file": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/values-fr-rCA/values.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 3355,
+                        "endLine": 59,
+                        "endColumn": 14,
+                        "endOffset": 3591
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 3471,
+                    "endLine": 61,
+                    "endColumn": 14,
+                    "endOffset": 3709
+                },
+                "from": {
+                    "file": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/values-fr-rCA/values.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 3596,
+                        "endLine": 63,
+                        "endColumn": 14,
+                        "endOffset": 3834
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 3714,
+                    "endLine": 65,
+                    "endColumn": 14,
+                    "endOffset": 3938
+                },
+                "from": {
+                    "file": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/values-fr-rCA/values.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 3839,
+                        "endLine": 67,
+                        "endColumn": 14,
+                        "endOffset": 4063
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 3943,
+                    "endLine": 69,
+                    "endColumn": 14,
+                    "endOffset": 4180
+                },
+                "from": {
+                    "file": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/values-fr-rCA/values.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 4068,
+                        "endLine": 71,
+                        "endColumn": 14,
+                        "endOffset": 4305
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 4185,
+                    "endLine": 73,
+                    "endColumn": 14,
+                    "endOffset": 4426
+                },
+                "from": {
+                    "file": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/values-fr-rCA/values.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 4310,
+                        "endLine": 75,
+                        "endColumn": 14,
+                        "endOffset": 4551
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 4431,
+                    "endLine": 77,
+                    "endColumn": 14,
+                    "endOffset": 4674
+                },
+                "from": {
+                    "file": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/values-fr-rCA/values.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 4556,
+                        "endLine": 79,
+                        "endColumn": 14,
+                        "endOffset": 4799
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 4679,
+                    "endColumn": 110,
+                    "endOffset": 4785
+                },
+                "from": {
+                    "file": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-fr-rCA/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 110,
+                        "endOffset": 162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 4790,
+                    "endColumn": 107,
+                    "endOffset": 4893
+                },
+                "from": {
+                    "file": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-fr-rCA/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 167,
+                        "endColumn": 107,
+                        "endOffset": 270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 4898,
+                    "endColumn": 122,
+                    "endOffset": 5016
+                },
+                "from": {
+                    "file": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-fr-rCA/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 275,
+                        "endColumn": 122,
+                        "endOffset": 393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 5021,
+                    "endColumn": 114,
+                    "endOffset": 5131
+                },
+                "from": {
+                    "file": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-fr-rCA/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 398,
+                        "endColumn": 114,
+                        "endOffset": 508
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 5136,
+                    "endColumn": 110,
+                    "endOffset": 5242
+                },
+                "from": {
+                    "file": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-fr-rCA/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 513,
+                        "endColumn": 110,
+                        "endOffset": 619
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 5247,
+                    "endColumn": 86,
+                    "endOffset": 5329
+                },
+                "from": {
+                    "file": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-fr-rCA/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 624,
+                        "endColumn": 86,
+                        "endOffset": 706
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 5334,
+                    "endColumn": 115,
+                    "endOffset": 5445
+                },
+                "from": {
+                    "file": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-fr-rCA/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 711,
+                        "endColumn": 115,
+                        "endOffset": 822
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 5450,
+                    "endColumn": 129,
+                    "endOffset": 5575
+                },
+                "from": {
+                    "file": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-fr-rCA/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 827,
+                        "endColumn": 129,
+                        "endOffset": 952
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 5580,
+                    "endColumn": 109,
+                    "endOffset": 5685
+                },
+                "from": {
+                    "file": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-fr-rCA/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 957,
+                        "endColumn": 109,
+                        "endOffset": 1062
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 5690,
+                    "endColumn": 111,
+                    "endOffset": 5797
+                },
+                "from": {
+                    "file": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-fr-rCA/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1067,
+                        "endColumn": 111,
+                        "endOffset": 1174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 5802,
+                    "endColumn": 102,
+                    "endOffset": 5900
+                },
+                "from": {
+                    "file": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-fr-rCA/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1179,
+                        "endColumn": 102,
+                        "endOffset": 1277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 5905,
+                    "endColumn": 110,
+                    "endOffset": 6011
+                },
+                "from": {
+                    "file": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-fr-rCA/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1282,
+                        "endColumn": 110,
+                        "endOffset": 1388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 6016,
+                    "endColumn": 106,
+                    "endOffset": 6118
+                },
+                "from": {
+                    "file": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-fr-rCA/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1393,
+                        "endColumn": 106,
+                        "endOffset": 1495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 6123,
+                    "endColumn": 106,
+                    "endOffset": 6225
+                },
+                "from": {
+                    "file": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-fr-rCA/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1500,
+                        "endColumn": 106,
+                        "endOffset": 1602
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 6230,
+                    "endColumn": 121,
+                    "endOffset": 6347
+                },
+                "from": {
+                    "file": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-fr-rCA/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1607,
+                        "endColumn": 121,
+                        "endOffset": 1724
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 6352,
+                    "endColumn": 109,
+                    "endOffset": 6457
+                },
+                "from": {
+                    "file": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/values-fr-rCA/values.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 4804,
+                        "endColumn": 109,
+                        "endOffset": 4909
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 6462,
+                    "endColumn": 108,
+                    "endOffset": 6566
+                },
+                "from": {
+                    "file": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/values-fr-rCA/values.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 4914,
+                        "endColumn": 108,
+                        "endOffset": 5018
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 6571,
+                    "endColumn": 132,
+                    "endOffset": 6699
+                },
+                "from": {
+                    "file": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/values-fr-rCA/values.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 5023,
+                        "endColumn": 132,
+                        "endOffset": 5151
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,320 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+    <include
+        android:id="@+id/topLayout"
+        layout="@layout/layout_top_layout_other"
+        android:layout_width="fill_parent"
+        android:layout_height="90dp"
+        android:layout_alignParentTop="true" />
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/bottom_layout"
+        android:layout_below="@+id/topLayout"
+        android:layout_margin="20dp"
+        android:background="@drawable/back_statistics">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="500dp"
+            android:layout_margin="2dp"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="60dp"
+                    android:background="#eeeeee"
+                    android:gravity="center"
+                    android:text="New Version"
+                    android:textColor="#757575"
+                    android:textSize="25dp"
+                    android:textStyle="bold" />
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="2dp"
+                    android:background="#d4d4d4" />
+
+                <TextView
+                    android:id="@+id/Statetxt"
+                    android:layout_width="fill_parent"
+                    android:layout_height="60dp"
+                    android:background="#eeeeee"
+                    android:gravity="center"
+                    android:text="State"
+                    android:textColor="#757575"
+                    android:textSize="25dp"
+                    android:textStyle="bold" />
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="2dp"
+                    android:background="#d4d4d4" />
+
+                <TextView
+                    android:id="@+id/Createtxt"
+                    android:layout_width="fill_parent"
+                    android:layout_height="60dp"
+                    android:background="#eeeeee"
+                    android:gravity="center"
+                    android:text="Create Date"
+                    android:textColor="#757575"
+                    android:textSize="25dp"
+                    android:textStyle="bold" />
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="2dp"
+                    android:background="#d4d4d4" />
+
+                <TextView
+                    android:id="@+id/reftxt"
+                    android:layout_width="fill_parent"
+                    android:layout_height="60dp"
+                    android:background="#eeeeee"
+                    android:gravity="center"
+                    android:text="Reference Id"
+                    android:textColor="#757575"
+                    android:textSize="25dp"
+                    android:textStyle="bold" />
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="2dp"
+                    android:background="#d4d4d4" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="2dp"
+                android:layout_height="fill_parent"
+                android:background="#d4d4d4" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/deviceNum"
+                    android:layout_width="fill_parent"
+                    android:layout_height="60dp"
+                    android:gravity="center"
+                    android:textColor="#757575"
+                    android:textSize="25dp"
+                    android:textStyle="bold" />
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="2dp"
+                    android:background="#d4d4d4" />
+
+                <TextView
+                    android:id="@+id/deviceScale"
+                    android:layout_width="fill_parent"
+                    android:layout_height="60dp"
+                    android:gravity="center"
+                    android:textColor="#757575"
+                    android:textSize="25dp"
+                    android:textStyle="bold" />
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="2dp"
+                    android:background="#d4d4d4" />
+
+                <TextView
+                    android:id="@+id/batteryLevel"
+                    android:layout_width="fill_parent"
+                    android:layout_height="60dp"
+                    android:gravity="center"
+                    android:textColor="#757575"
+                    android:textSize="25dp"
+                    android:textStyle="bold" />
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="2dp"
+                    android:background="#d4d4d4" />
+
+                <TextView
+                    android:id="@+id/batteryPlugged"
+                    android:layout_width="fill_parent"
+                    android:layout_height="60dp"
+                    android:gravity="center"
+                    android:textColor="#757575"
+                    android:textSize="25dp"
+                    android:textStyle="bold" />
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="2dp"
+                    android:background="#d4d4d4" />
+
+            </LinearLayout>
+
+            <View
+                android:layout_width="2dp"
+                android:layout_height="fill_parent"
+                android:background="#d4d4d4" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/oldtxt"
+                    android:layout_width="fill_parent"
+                    android:layout_height="60dp"
+                    android:background="#eeeeee"
+                    android:gravity="center"
+                    android:text="Old Version"
+                    android:textColor="#757575"
+                    android:textSize="25dp"
+                    android:textStyle="bold" />
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="2dp"
+                    android:background="#d4d4d4" />
+
+                <TextView
+                    android:id="@+id/destxt"
+                    android:layout_width="fill_parent"
+                    android:layout_height="60dp"
+                    android:background="#eeeeee"
+                    android:gravity="center"
+                    android:text="Description"
+                    android:textColor="#757575"
+                    android:textSize="25dp"
+                    android:textStyle="bold" />
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="2dp"
+                    android:background="#d4d4d4" />
+
+                <TextView
+                    android:id="@+id/exetxt"
+                    android:layout_width="fill_parent"
+                    android:layout_height="60dp"
+                    android:background="#eeeeee"
+                    android:gravity="center"
+                    android:text="Execution Date"
+                    android:textColor="#757575"
+                    android:textSize="25dp"
+                    android:textStyle="bold" />
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="2dp"
+                    android:background="#d4d4d4" />
+
+                <TextView
+                    android:id="@+id/Staxt"
+                    android:layout_width="fill_parent"
+                    android:layout_height="60dp"
+                    android:background="#eeeeee"
+                    android:gravity="center"
+                    android:text="Status"
+                    android:textColor="#757575"
+                    android:textSize="25dp"
+                    android:textStyle="bold" />
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="2dp"
+                    android:background="#d4d4d4" />
+
+            </LinearLayout>
+
+            <View
+                android:layout_width="2dp"
+                android:layout_height="fill_parent"
+                android:background="#d4d4d4" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/batteryHealth"
+                    android:layout_width="fill_parent"
+                    android:layout_height="60dp"
+                    android:gravity="center"
+                    android:textColor="#757575"
+                    android:textSize="25dp"
+                    android:textStyle="bold" />
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="2dp"
+                    android:background="#d4d4d4" />
+
+                <TextView
+                    android:id="@+id/batteryLvl"
+                    android:layout_width="fill_parent"
+                    android:layout_height="60dp"
+                    android:gravity="center"
+                    android:textColor="#757575"
+                    android:textSize="25dp"
+                    android:textStyle="bold" />
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="2dp"
+                    android:background="#d4d4d4" />
+
+                <TextView
+                    android:id="@+id/batteryStatus"
+                    android:layout_width="fill_parent"
+                    android:layout_height="60dp"
+                    android:gravity="center"
+                    android:textColor="#757575"
+                    android:textSize="25dp"
+                    android:textStyle="bold" />
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="2dp"
+                    android:background="#d4d4d4" />
+
+                <TextView
+                    android:id="@+id/batteryTemp"
+                    android:layout_width="fill_parent"
+                    android:layout_height="60dp"
+                    android:gravity="center"
+                    android:textColor="#757575"
+                    android:textSize="25dp"
+                    android:textStyle="bold" />
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="2dp"
+                    android:background="#d4d4d4" />
+
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+    <include
+        android:id="@+id/bottom_layout"
+        layout="@layout/user_bottom_other_screen"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true" />
+</RelativeLayout>

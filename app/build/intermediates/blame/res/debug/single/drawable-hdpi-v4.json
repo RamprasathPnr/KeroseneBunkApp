@@ -1,0 +1,398 @@
+[
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_retrive_db.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/icon_retrive_db.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_sal_holder.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/icon_sal_holder.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_stock_check.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/icon_stock_check.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/orange_bg.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/orange_bg.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/purple_bg.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/purple_bg.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/brown_bg.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/brown_bg.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_inward.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/icon_inward.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tamil_nadu_logo.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/tamil_nadu_logo.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/pink_bg.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/pink_bg.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_lang_lat.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/icon_lang_lat.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_arrow.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/icon_arrow.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_user.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/icon_user.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_restore_db.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/icon_restore_db.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_bill.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/icon_bill.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_stocks.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/icon_stocks.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/back_user_pos.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/back_user_pos.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ab_share_pack_holo_dark.9.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_cylinder.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/icon_cylinder.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_othermenu.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/icon_othermenu.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_menu.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/icon_menu.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_clear_mtrl_alpha.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_tras_view.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/icon_tras_view.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_user_info.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/icon_user_info.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/teal_bg.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/teal_bg.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_otp_have.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/icon_otp_have.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_logout.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/icon_logout.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_white_retangle.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/icon_white_retangle.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_sale_order.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/icon_sale_order.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/checkbox_unchecked.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/checkbox_unchecked.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/omeagatelogo.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/omeagatelogo.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_trns_areg.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/icon_trns_areg.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_pulltorefresh_arrow.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/ic_pulltorefresh_arrow.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_children.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/icon_children.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_pos_stats.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/icon_pos_stats.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_printer.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/icon_printer.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_tick.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/icon_tick.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_transaction.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/icon_transaction.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_longpressed_holo.9.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_green_card.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/icon_green_card.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_language.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/icon_language.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_otp_base.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/icon_otp_base.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ab_share_pack_holo_light.9.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_ration_card.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/icon_ration_card.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_edit_profile.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/icon_edit_profile.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/red_bg.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/red_bg.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_server.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/icon_server.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/img_qr_code.jpeg",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/img_qr_code.jpeg"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_search_api_mtrl_alpha.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_active_wright.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/icon_active_wright.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_focused_holo.9.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/green_bg.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/green_bg.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_green_mob.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/icon_green_mob.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_device_details.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/icon_device_details.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/clear_image.jpeg",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/clear_image.jpeg"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_otp_need.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/icon_otp_need.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_green_cal.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/icon_green_cal.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/checkbox_checked.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/checkbox_checked.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_adults.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/icon_adults.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_btn_view.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/icon_btn_view.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_key.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/icon_key.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/warning.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/warning.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_scan_qr.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/icon_scan_qr.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_opening_balance.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/icon_opening_balance.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_menu_white.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/icon_menu_white.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_backspace.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/icon_backspace.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_closesale.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/icon_closesale.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_sal_full.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/icon_sal_full.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/logo.png",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/drawable-hdpi/logo.png"
+    }
+]

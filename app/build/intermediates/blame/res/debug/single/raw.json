@@ -1,0 +1,1850 @@
+[
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_puerto_rico",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_puerto_rico"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_yekaterinburg",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_yekaterinburg"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_pacific_johnston",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_pacific_johnston"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_atlantic_jan_mayen",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_atlantic_jan_mayen"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_boise",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_boise"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_seoul",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_seoul"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_europe_zagreb",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_europe_zagreb"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_australia_lindeman",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_australia_lindeman"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_africa_bissau",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_africa_bissau"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_omsk",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_omsk"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_europe_volgograd",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_europe_volgograd"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_etc_gmtplus7",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_etc_gmtplus7"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_north_dakota_beulah",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_north_dakota_beulah"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_antarctica_vostok",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_antarctica_vostok"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_scoresbysund",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_scoresbysund"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_hong_kong",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_hong_kong"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_met",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_met"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_yellowknife",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_yellowknife"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_pacific_kiritimati",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_pacific_kiritimati"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_europe_riga",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_europe_riga"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_qatar",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_qatar"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_indiana_tell_city",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_indiana_tell_city"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_aden",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_aden"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_whitehorse",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_whitehorse"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_grenada",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_grenada"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_indian_mahe",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_indian_mahe"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_kashgar",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_kashgar"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_etc_gmtplus8",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_etc_gmtplus8"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_pacific_apia",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_pacific_apia"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_manaus",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_manaus"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_cuiaba",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_cuiaba"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_antarctica_mawson",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_antarctica_mawson"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_pacific_tongatapu",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_pacific_tongatapu"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_europe_kaliningrad",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_europe_kaliningrad"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_africa_timbuktu",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_africa_timbuktu"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_tijuana",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_tijuana"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_argentina_la_rioja",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_argentina_la_rioja"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_monterrey",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_monterrey"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_kentucky_louisville",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_kentucky_louisville"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_pacific_easter",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_pacific_easter"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_antarctica_davis",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_antarctica_davis"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_africa_casablanca",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_africa_casablanca"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_rangoon",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_rangoon"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_australia_broken_hill",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_australia_broken_hill"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_etc_gmtplus9",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_etc_gmtplus9"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_novokuznetsk",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_novokuznetsk"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_nassau",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_nassau"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_ojinaga",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_ojinaga"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_australia_sydney",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_australia_sydney"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_cet",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_cet"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_pacific_niue",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_pacific_niue"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_ulaanbaatar",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_ulaanbaatar"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_atlantic_cape_verde",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_atlantic_cape_verde"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_atlantic_stanley",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_atlantic_stanley"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_adak",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_adak"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_eirunepe",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_eirunepe"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_argentina_mendoza",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_argentina_mendoza"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_pacific_pitcairn",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_pacific_pitcairn"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_africa_nouakchott",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_africa_nouakchott"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_kuching",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_kuching"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_danmarkshavn",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_danmarkshavn"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_jamaica",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_jamaica"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_amman",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_amman"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_europe_dublin",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_europe_dublin"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_etc_gmtplus3",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_etc_gmtplus3"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_nicosia",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_nicosia"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_dushanbe",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_dushanbe"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_etc_gmt_2",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_etc_gmt_2"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_africa_niamey",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_africa_niamey"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_havana",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_havana"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_africa_addis_ababa",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_africa_addis_ababa"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_africa_accra",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_africa_accra"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_sakhalin",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_sakhalin"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_australia_eucla",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_australia_eucla"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_campo_grande",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_campo_grande"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_etc_gmt_1",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_etc_gmt_1"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_africa_bangui",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_africa_bangui"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_etc_gmtplus4",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_etc_gmtplus4"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_mst",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_mst"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_indiana_indianapolis",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_indiana_indianapolis"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_pacific_kwajalein",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_pacific_kwajalein"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_africa_windhoek",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_africa_windhoek"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_los_angeles",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_los_angeles"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_argentina_rio_gallegos",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_argentina_rio_gallegos"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_europe_zaporozhye",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_europe_zaporozhye"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_europe_budapest",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_europe_budapest"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_pst8pdt",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_pst8pdt"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_argentina_ushuaia",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_argentina_ushuaia"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_africa_kinshasa",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_africa_kinshasa"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_st_kitts",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_st_kitts"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_pangnirtung",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_pangnirtung"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_tehran",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_tehran"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_etc_gmtplus5",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_etc_gmtplus5"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_europe_copenhagen",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_europe_copenhagen"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_pacific_marquesas",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_pacific_marquesas"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_curacao",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_curacao"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_antarctica_troll",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_antarctica_troll"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_atlantic_south_georgia",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_atlantic_south_georgia"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_europe_paris",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_europe_paris"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_indian_mauritius",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_indian_mauritius"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_glace_bay",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_glace_bay"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_mexico_city",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_mexico_city"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_europe_bucharest",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_europe_bucharest"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_africa_juba",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_africa_juba"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_st_johns",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_st_johns"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_europe_malta",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_europe_malta"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_chongqing",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_chongqing"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_tel_aviv",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_tel_aviv"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_indian_antananarivo",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_indian_antananarivo"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_etc_gmtplus6",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_etc_gmtplus6"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_rio_branco",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_rio_branco"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_argentina_buenos_aires",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_argentina_buenos_aires"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_europe_vilnius",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_europe_vilnius"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_novosibirsk",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_novosibirsk"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/beep.mp3",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/src/main/res/raw/beep.mp3"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_australia_perth",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_australia_perth"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_tbilisi",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_tbilisi"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_pacific_port_moresby",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_pacific_port_moresby"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_creston",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_creston"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_africa_el_aaiun",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_africa_el_aaiun"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_asuncion",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_asuncion"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_africa_abidjan",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_africa_abidjan"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_muscat",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_muscat"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_hovd",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_hovd"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_africa_kigali",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_africa_kigali"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_europe_athens",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_europe_athens"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_boa_vista",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_boa_vista"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_africa_gaborone",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_africa_gaborone"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_europe_belgrade",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_europe_belgrade"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_fortaleza",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_fortaleza"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_europe_chisinau",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_europe_chisinau"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_dominica",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_dominica"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_santa_isabel",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_santa_isabel"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_africa_mbabane",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_africa_mbabane"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_cancun",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_cancun"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_eet",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_eet"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_dubai",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_dubai"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_north_dakota_new_salem",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_north_dakota_new_salem"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_africa_cairo",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_africa_cairo"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_choibalsan",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_choibalsan"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_brunei",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_brunei"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_europe_vienna",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_europe_vienna"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_argentina_cordoba",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_argentina_cordoba"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_indian_comoro",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_indian_comoro"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_tegucigalpa",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_tegucigalpa"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_pacific_tahiti",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_pacific_tahiti"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_europe_brussels",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_europe_brussels"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_atlantic_st_helena",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_atlantic_st_helena"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_jakarta",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_jakarta"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_pacific_enderbury",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_pacific_enderbury"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_europe_minsk",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_europe_minsk"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_lima",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_lima"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_pacific_majuro",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_pacific_majuro"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_thimphu",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_thimphu"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_europe_guernsey",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_europe_guernsey"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_europe_istanbul",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_europe_istanbul"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_pacific_efate",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_pacific_efate"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_rainy_river",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_rainy_river"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_manila",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_manila"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_miquelon",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_miquelon"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_africa_libreville",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_africa_libreville"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_krasnoyarsk",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_krasnoyarsk"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_antarctica_casey",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_antarctica_casey"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_phnom_penh",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_phnom_penh"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_el_salvador",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_el_salvador"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_africa_dakar",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_africa_dakar"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_africa_luanda",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_africa_luanda"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_irkutsk",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_irkutsk"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_pacific_pohnpei",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_pacific_pohnpei"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_europe_belfast",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_europe_belfast"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_africa_nairobi",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_africa_nairobi"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_santiago",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_santiago"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_africa_asmara",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_africa_asmara"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_belem",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_belem"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_menominee",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_menominee"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_karachi",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_karachi"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_pacific_nauru",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_pacific_nauru"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_indiana_marengo",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_indiana_marengo"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_africa_maputo",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_africa_maputo"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_australia_brisbane",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_australia_brisbane"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_indian_kerguelen",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_indian_kerguelen"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_argentina_salta",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_argentina_salta"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_anadyr",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_anadyr"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_europe_samara",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_europe_samara"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_atlantic_azores",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_atlantic_azores"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_tortola",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_tortola"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_etc_gmtplus12",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_etc_gmtplus12"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_africa_ouagadougou",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_africa_ouagadougou"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_atikokan",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_atikokan"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_porto_velho",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_porto_velho"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_dawson",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_dawson"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_port_of_spain",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_port_of_spain"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_chita",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_chita"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_atlantic_madeira",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_atlantic_madeira"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_pacific_galapagos",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_pacific_galapagos"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_pacific_pago_pago",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_pacific_pago_pago"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_europe_berlin",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_europe_berlin"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_africa_freetown",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_africa_freetown"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_tashkent",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_tashkent"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_etc_gmtplus11",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_etc_gmtplus11"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_araguaina",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_araguaina"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_est",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_est"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_africa_lome",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_africa_lome"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_europe_amsterdam",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_europe_amsterdam"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_pacific_chatham",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_pacific_chatham"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_europe_madrid",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_europe_madrid"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_europe_warsaw",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_europe_warsaw"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_jayapura",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_jayapura"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_etc_uct",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_etc_uct"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_mst7mdt",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_mst7mdt"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_yakutat",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_yakutat"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_africa_tunis",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_africa_tunis"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_damascus",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_damascus"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_costa_rica",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_costa_rica"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_etc_gmtplus10",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_etc_gmtplus10"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_makassar",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_makassar"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_moncton",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_moncton"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_argentina_catamarca",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_argentina_catamarca"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_vientiane",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_vientiane"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_antarctica_macquarie",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_antarctica_macquarie"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_cayenne",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_cayenne"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_cayman",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_cayman"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_argentina_san_luis",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_argentina_san_luis"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_europe_tiraspol",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_europe_tiraspol"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_samarkand",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_samarkand"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_godthab",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_godthab"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_detroit",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_detroit"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_metlakatla",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_metlakatla"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_antarctica_syowa",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_antarctica_syowa"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_africa_mogadishu",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_africa_mogadishu"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_europe_gibraltar",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_europe_gibraltar"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_africa_kampala",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_africa_kampala"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_kabul",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_kabul"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_pyongyang",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_pyongyang"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_guayaquil",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_guayaquil"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_argentina_tucuman",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_argentina_tucuman"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_pacific_fakaofo",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_pacific_fakaofo"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_australia_adelaide",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_australia_adelaide"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_baku",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_baku"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_etc_gmt",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_etc_gmt"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_indiana_petersburg",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_indiana_petersburg"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_ensenada",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_ensenada"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_australia_hobart",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_australia_hobart"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_europe_stockholm",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_europe_stockholm"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_juneau",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_juneau"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_europe_oslo",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_europe_oslo"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_atlantic_faroe",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_atlantic_faroe"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_africa_bamako",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_africa_bamako"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_sao_paulo",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_sao_paulo"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_kolkata",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_kolkata"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_africa_banjul",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_africa_banjul"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_africa_lagos",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_africa_lagos"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_regina",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_regina"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_est5edt",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_est5edt"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_shanghai",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_shanghai"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_europe_zurich",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_europe_zurich"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_europe_tallinn",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_europe_tallinn"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_europe_london",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_europe_london"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_maceio",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_maceio"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_pacific_guadalcanal",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_pacific_guadalcanal"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_argentina_jujuy",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_argentina_jujuy"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_pacific_rarotonga",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_pacific_rarotonga"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_macau",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_macau"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_santarem",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_santarem"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_colombo",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_colombo"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_ashgabat",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_ashgabat"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_harbin",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_harbin"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_oral",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_oral"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_ho_chi_minh",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_ho_chi_minh"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_srednekolymsk",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_srednekolymsk"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_europe_monaco",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_europe_monaco"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_pacific_kosrae",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_pacific_kosrae"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_coral_harbour",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_coral_harbour"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_indian_chagos",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_indian_chagos"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_bangkok",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_bangkok"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_europe_luxembourg",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_europe_luxembourg"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_thunder_bay",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_thunder_bay"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_vancouver",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_vancouver"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_indian_mayotte",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_indian_mayotte"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_zoneinfomap",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_zoneinfomap"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_la_paz",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_la_paz"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_riyadh",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_riyadh"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_africa_algiers",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_africa_algiers"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_pacific_norfolk",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_pacific_norfolk"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_etc_gmt_10",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_etc_gmt_10"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_dawson_creek",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_dawson_creek"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_north_dakota_center",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_north_dakota_center"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_port_au_prince",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_port_au_prince"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_bishkek",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_bishkek"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_atlantic_bermuda",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_atlantic_bermuda"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_grand_turk",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_grand_turk"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_khandyga",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_khandyga"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_kentucky_monticello",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_kentucky_monticello"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_sitka",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_sitka"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_urumqi",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_urumqi"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_rosario",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_rosario"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_anguilla",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_anguilla"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_africa_lubumbashi",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_africa_lubumbashi"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_pacific_wallis",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_pacific_wallis"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_etc_gmt_11",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_etc_gmt_11"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_pacific_midway",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_pacific_midway"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_thule",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_thule"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_paramaribo",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_paramaribo"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_kuwait",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_kuwait"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_indiana_winamac",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_indiana_winamac"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_martinique",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_martinique"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_australia_lord_howe",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_australia_lord_howe"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_blanc_sablon",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_blanc_sablon"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_bogota",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_bogota"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_pacific_guam",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_pacific_guam"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_yakutsk",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_yakutsk"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_denver",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_denver"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_kathmandu",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_kathmandu"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_ust_nera",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_ust_nera"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_managua",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_managua"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_europe_andorra",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_europe_andorra"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_hst",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_hst"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_phoenix",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_phoenix"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_pacific_saipan",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_pacific_saipan"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_montserrat",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_montserrat"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_pacific_wake",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_pacific_wake"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_africa_ndjamena",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_africa_ndjamena"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_hanoi",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_hanoi"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_edmonton",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_edmonton"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_antarctica_rothera",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_antarctica_rothera"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_cst6cdt",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_cst6cdt"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_guatemala",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_guatemala"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_montreal",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_montreal"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_bahia_banderas",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_bahia_banderas"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_hermosillo",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_hermosillo"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_europe_helsinki",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_europe_helsinki"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_africa_johannesburg",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_africa_johannesburg"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_nipigon",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_nipigon"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_taipei",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_taipei"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_europe_moscow",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_europe_moscow"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_europe_isle_of_man",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_europe_isle_of_man"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_pacific_bougainville",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_pacific_bougainville"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_europe_vaduz",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_europe_vaduz"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_antigua",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_antigua"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_etc_gmt_14",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_etc_gmt_14"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_europe_ljubljana",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_europe_ljubljana"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_indian_reunion",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_indian_reunion"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_europe_kiev",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_europe_kiev"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_indiana_vevay",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_indiana_vevay"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_gaza",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_gaza"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_chicago",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_chicago"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_africa_lusaka",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_africa_lusaka"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_swift_current",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_swift_current"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_vladivostok",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_vladivostok"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_almaty",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_almaty"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_etc_gmt_6",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_etc_gmt_6"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_pacific_funafuti",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_pacific_funafuti"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_europe_jersey",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_europe_jersey"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_resolute",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_resolute"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_chihuahua",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_chihuahua"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_rankin_inlet",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_rankin_inlet"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_europe_tirane",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_europe_tirane"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_mazatlan",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_mazatlan"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_jerusalem",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_jerusalem"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_magadan",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_magadan"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_noronha",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_noronha"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_belize",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_belize"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_panama",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_panama"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_matamoros",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_matamoros"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_europe_sofia",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_europe_sofia"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_africa_maseru",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_africa_maseru"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_etc_gmt_5",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_etc_gmt_5"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_baghdad",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_baghdad"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_europe_sarajevo",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_europe_sarajevo"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_antarctica_mcmurdo",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_antarctica_mcmurdo"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_africa_monrovia",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_africa_monrovia"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__joda_time_dummy_resource",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__joda_time_dummy_resource"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_aqtau",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_aqtau"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_africa_bujumbura",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_africa_bujumbura"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_africa_douala",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_africa_douala"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_africa_malabo",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_africa_malabo"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_hebron",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_hebron"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_europe_lisbon",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_europe_lisbon"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_singapore",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_singapore"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_atlantic_canary",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_atlantic_canary"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_etc_gmt_12",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_etc_gmt_12"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_africa_ceuta",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_africa_ceuta"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_africa_khartoum",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_africa_khartoum"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_etc_gmtplus1",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_etc_gmtplus1"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_cambridge_bay",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_cambridge_bay"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_bahia",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_bahia"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_argentina_comodrivadavia",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_argentina_comodrivadavia"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_etc_gmt_4",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_etc_gmt_4"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_indian_cocos",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_indian_cocos"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_pacific_auckland",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_pacific_auckland"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_aqtobe",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_aqtobe"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_europe_simferopol",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_europe_simferopol"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_st_vincent",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_st_vincent"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_pontianak",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_pontianak"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_etc_gmt_13",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_etc_gmt_13"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_africa_djibouti",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_africa_djibouti"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_yerevan",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_yerevan"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_etc_gmtplus2",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_etc_gmtplus2"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_pacific_tarawa",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_pacific_tarawa"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_st_thomas",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_st_thomas"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_etc_gmt_3",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_etc_gmt_3"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_santo_domingo",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_santo_domingo"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_africa_sao_tome",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_africa_sao_tome"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_indiana_knox",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_indiana_knox"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_recife",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_recife"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_kamchatka",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_kamchatka"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_africa_dar_es_salaam",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_africa_dar_es_salaam"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_aruba",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_aruba"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_montevideo",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_montevideo"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_africa_tripoli",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_africa_tripoli"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_etc_utc",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_etc_utc"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_africa_brazzaville",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_africa_brazzaville"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_atlantic_reykjavik",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_atlantic_reykjavik"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_africa_blantyre",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_africa_blantyre"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_kuala_lumpur",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_kuala_lumpur"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_europe_prague",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_europe_prague"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_new_york",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_new_york"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_goose_bay",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_goose_bay"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_antarctica_palmer",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_antarctica_palmer"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_pacific_honolulu",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_pacific_honolulu"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_iqaluit",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_iqaluit"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_dhaka",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_dhaka"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_bahrain",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_bahrain"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_beirut",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_beirut"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_barbados",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_barbados"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_australia_currie",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_australia_currie"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_australia_darwin",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_australia_darwin"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_pacific_noumea",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_pacific_noumea"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_caracas",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_caracas"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_winnipeg",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_winnipeg"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_europe_skopje",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_europe_skopje"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_argentina_san_juan",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_argentina_san_juan"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_etc_gmt_9",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_etc_gmt_9"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_halifax",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_halifax"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_pacific_chuuk",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_pacific_chuuk"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_anchorage",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_anchorage"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_guadeloupe",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_guadeloupe"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_antarctica_dumontdurville",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_antarctica_dumontdurville"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_africa_porto_novo",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_africa_porto_novo"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_indiana_vincennes",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_indiana_vincennes"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_wet",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_wet"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_pacific_palau",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_pacific_palau"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_qyzylorda",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_qyzylorda"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_nome",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_nome"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_pacific_fiji",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_pacific_fiji"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_tokyo",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_tokyo"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_st_lucia",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_st_lucia"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_etc_gmt_8",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_etc_gmt_8"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_merida",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_merida"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_australia_melbourne",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_australia_melbourne"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_indian_maldives",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_indian_maldives"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_inuvik",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_inuvik"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_guyana",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_guyana"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_africa_conakry",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_africa_conakry"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_america_toronto",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_america_toronto"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_europe_rome",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_europe_rome"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_asia_dili",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_asia_dili"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_africa_harare",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_africa_harare"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_etc_gmt_7",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_etc_gmt_7"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_europe_uzhgorod",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_europe_uzhgorod"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_indian_christmas",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_indian_christmas"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/res/merged/debug/raw/__tzdata_pacific_gambier",
+        "source": "/home/ftuser/AndroidStudioProjects/KeroseneBunkApp/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/res/raw/__tzdata_pacific_gambier"
+    }
+]

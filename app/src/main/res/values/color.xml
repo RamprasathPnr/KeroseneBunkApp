@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="actionbarBack">#0000ff</color>
+    <color name="transparent">#00000000</color>
+    <color name="card_activate">#777777</color>
+    <color name="white">#FFFFFF</color>
+    <color name="dark_slate_gray">#2F4F4F</color>
+    <color name="gray_2">#AFAFAF</color>
+    <color name="gray_1">#C0C0C0</color>
+    <color name="keyboard_key">#474747</color>
+    <color name="black">#000000</color>
+    <color name="login_background">#00322a</color>
+    <color name="dialog_view_background">#eeeeee</color>
+    <color name="login_posAppName">#ff9328</color>
+    <color name="sample_primary">#4590bd</color>
+    <color name="sample_accent">#88bfcb</color>
+    <color name="login_posAppVersion">#7b7b7b</color>
+    <color name="login_loginText">#fdedc3</color>
+    <color name="login_footer_text">#f9f9f9</color>
+    <color name="pages_top_head">#004d40</color>
+    <color name="pages_top_profile">#00322a</color>
+    <color name="stock_inward_close_btn">#40e0d0</color>
+    <color name="stockInwardListItemColorReceived">#cdd1d6</color>
+    <color name="stockInwardListItemColorTransit">#e6e7ea</color>
+    <color name="stockInwardCloseBtn">#0d89a0</color>
+    <color name="transitButtonColor">#0059fc</color>
+    <color name="rightRightColor">#f0b108</color>
+    <color name="cancelButtonColor">#3890e1</color>
+    <color name="submitButtonColor">#018f76</color>
+    <color name="tableHeaderColor">#051734</color>
+    <color name="vehicleLabelColor">#6c3e12</color>
+    <color name="vehicleColor">#945518</color>
+    <color name="deliveryDateLabelColor">#253d79</color>
+    <color name="deliveryDateColor">#3252a2</color>
+    <color name="challanLabelColor">#0f0f0f</color>
+    <color name="challanColor">#262626</color>
+    <color name="red">#ff4800</color>
+    <color name="redColor">#ff0000</color>
+    <color name="buttonBack">#444444</color>
+    <color name="buttonNormal">#009f83</color>
+    <color name="ash">#4a4d4e</color>
+    <color name="grey">#4a4d4e</color>
+
+    <color name="mainColor1">#F6F6F6</color>
+    <color name="mainColor2">#ffffff</color>
+
+    <array name="mainColor">
+        <item>@color/mainColor1</item>
+        <item>@color/mainColor2</item>
+    </array>
+
+
+    <color name="subColor1">#f89012</color>
+    <color name="subColor2">#f9258d</color>
+    <color name="subColor3">#48a6e7</color>
+    <color name="subColor4">#a369dc</color>
+    <color name="subColor5">#7aa830</color>
+    <color name="subColor6">#ef8552</color>
+
+    <array name="subColor">
+        <item>@color/subColor1</item>
+        <item>@color/subColor2</item>
+        <item>@color/subColor3</item>
+        <item>@color/subColor4</item>
+        <item>@color/subColor5</item>
+        <item>@color/subColor6</item>
+    </array>
+
+
+    <color name="unitColor1">#80f89012</color>
+    <color name="unitColor2">#80f9258d</color>
+    <color name="unitColor3">#8048a6e7</color>
+    <color name="unitColor4">#80a369dc</color>
+    <color name="unitColor5">#807aa830</color>
+    <color name="unitColor6">#80ef8552</color>
+
+    <array name="unitColor">
+        <item>@color/unitColor1</item>
+        <item>@color/unitColor2</item>
+        <item>@color/unitColor3</item>
+        <item>@color/unitColor4</item>
+        <item>@color/unitColor5</item>
+        <item>@color/unitColor6</item>
+    </array>
+    <color name="contents_text">#ff000000</color>
+    <color name="encode_view">#ffffffff</color>
+    <color name="possible_result_points">#c0ffbd21</color> <!-- Android standard ICS color -->
+    <color name="result_minor_text">#ffc0c0c0</color>
+    <color name="result_points">#c099cc00</color> <!-- Android standard ICS color -->
+    <color name="result_text">#ffffffff</color>
+    <color name="viewfinder_laser">#ffcc0000</color> <!-- Android standard ICS color -->
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="status_text">#ffffffff</color>
+    <color name="result_view">#b0000000</color>
+
+</resources>
